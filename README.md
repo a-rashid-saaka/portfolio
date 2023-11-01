@@ -8,6 +8,6 @@ BSc. Metallurgical Engineering | Kwame Nkrumah University of Science and Technol
 
 ### Work Experience
 
--Plan 2
+- Plan 2
 
 ### Projects
