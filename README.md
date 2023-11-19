@@ -4,6 +4,6 @@ and drawing insights from data by asking the revelant questions.
 
 You can reach me through [Mail](sakabdulras@gmail.com)
 
-#### Technical Skills: SQL, Microsoft Office Suite, R,Tableau
+#### Technical Skills: SQL, Microsoft Office Suite,Tableau
 
 
