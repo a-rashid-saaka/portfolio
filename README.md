@@ -23,5 +23,5 @@ subsequent analysis.
 
 In this project, I cleaned Nashville housing data remove undesired data for further analysis and visualization
 
-![Data Cleaning](
+![Data Cleaning](/assets/css/WW-Housing_Lede.png)
 
