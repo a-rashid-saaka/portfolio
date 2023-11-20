@@ -14,7 +14,7 @@ You can reach me through [Mail](mailto:sakabdulras@gmail.com)
 
 Performed exploratory analysis on Covid19 deaths and vaccinations data using **SQL**.
 This analysis helps understand our data better,by detecting errors and identifying how the dataset is structured before carrying out
-final analysis
+subsequent analysis.
 
 ![Data Exploration](/assets/css/200309-D-HN545-003.png)
 
