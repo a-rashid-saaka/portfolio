@@ -21,3 +21,7 @@ subsequent analysis.
 ### Data Cleaning with SQL
 [View Project](https://github.com/a-rashid-saaka/Projects/blob/main/Data%20Cleaning.sql)
 
+In this project, I cleaned Nashville housing data remove undesired data for further analysis and visualization
+
+![Data Cleaning](
+
