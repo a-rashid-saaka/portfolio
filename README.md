@@ -12,3 +12,7 @@ You can reach me through [Mail](mailto:sakabdulras@gmail.com)
 #### Data Exploration with SQL
 [View Project](https://github.com/a-rashid-saaka/Projects/blob/main/Covid19_data%20Exploration.sql)
 
+Performed exploratory analysis on Covid19 deaths and vaccinations data using **SQL**.
+This analysis helps understand our data better,by detecting errors and identifying how the dataset is structured
+![Data Exploration](
+
