@@ -18,3 +18,6 @@ subsequent analysis.
 
 ![Data Exploration](/assets/css/200309-D-HN545-003.png)
 
+### Data Cleaning with SQL
+[View Project](
+
